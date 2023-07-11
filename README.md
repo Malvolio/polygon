@@ -6,9 +6,9 @@ ChatGPT write a Typescript version that allowed you to specify any regular polyg
 and any number of points.
 
 ## Usage:
-      --help      Show help                                            [boolean]
-      --version   Show version number                                  [boolean]
-  -f, --filename  Specify the filename                                  [string]
-  -s, --sides     Specify the number of sides              [number] [default: 5]
-  -z, --size      Specify the size in pixels             [number] [default: 500]
-  -n, --points    Specify the number of points         [number] [default: 20000]
+          --help      Show help                                            [boolean]
+          --version   Show version number                                  [boolean]
+      -f, --filename  Specify the filename                                  [string]
+      -s, --sides     Specify the number of sides              [number] [default: 5]
+      -z, --size      Specify the size in pixels             [number] [default: 500]
+      -n, --points    Specify the number of points         [number] [default: 20000]
